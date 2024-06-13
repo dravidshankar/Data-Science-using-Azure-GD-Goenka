@@ -6,3 +6,6 @@
 [Classification Model using Azure Machine Learning Designer](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html)
 
 ## Day2
+
+[Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
+
