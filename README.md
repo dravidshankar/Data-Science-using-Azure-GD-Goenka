@@ -9,3 +9,5 @@
 
 [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
 
+[Data Exploration and Analysis with Python -numpy, pandas and matplotlib](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/)
+
