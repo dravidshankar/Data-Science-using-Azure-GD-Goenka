@@ -12,8 +12,8 @@
 [Data Exploration and Analysis with Python -numpy, pandas and matplotlib](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/)
 
 ## Day3
-[Classification Algorithms] (https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Classification-Algorithms.ipynb)
+[Classification Algorithms](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Classification-Algorithms.ipynb)
 
-Evaluation Metrics
+[Evaluation Metrics](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Classification%20Problem.png)
 
 
