@@ -16,7 +16,7 @@
 ## Day3
 [Classification Algorithms](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Classification-Algorithms.ipynb)
 
-[Evaluation Metrics](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Classification%20Problem.png)
+[Evaluation Metrics]([https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Classification%20Problem.png](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/5-binary-classification))
 
 [Run a training script as a command job in Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/run-training-script-command-job-azure-machine-learning/)
 
