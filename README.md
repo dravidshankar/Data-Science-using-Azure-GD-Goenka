@@ -26,18 +26,17 @@
 
 ## Day 4
 
-K-Means Clustering
+[K-Means Clustering](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/K_Means_Clustering.ipynb)
 
-Hierarachical Clustering
+[Hierarachical Clustering](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Agglomerative_Clustering.ipynb)
 
-Image Segmentation
+[Image Segmentation](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Image_Segmentation_KMeans.ipynb)
 
-Customer Segmentation
+[Customer Segmentation](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Customer_Segmentation.ipynb)
 
-Principal Component Analysis
+[Principal Component Analysis](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/PCA.ipynb)
 
-Deep Neural Network to solve a regression problem
 
-Deep Neural Network to solve a classification problem
+[Deep Neural Network to solve a classification problem](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/DNN_Classification.ipynb)
 
-Deep Neural Network to solve a Classification problem with regularization
+[Deep Neural Network to solve a Classification problem with Regularization](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/DNN_classification_with_dropout.ipynb)
