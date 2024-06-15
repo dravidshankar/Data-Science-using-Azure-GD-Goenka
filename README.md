@@ -56,11 +56,17 @@ Expected Solution/Approach:
 Data description is available [here](https://archive.ics.uci.edu/ml/datasets/Burst+Header+Packet+%28BHP%29+flooding+attack+on+Optical+Burst+Switching+%28OBS%29+Network)
 
 Data Preparation: Perform the necessary data cleaning(if required)
+
 Feature Selection: Select the required columns after doing an analysis.
+
 Data Preprocessing: Perform any encoding of the variables to integers(if required) after analyzing the dataset
+
 Split the Data: Split the data into a training set and a validation set.
+
 Train the model: Select suitable ML algorithms and train the model
+
 Evaluation Measures: Measures such as accuracy, mean recall score, and mean precision should be computed to evaluate the classifier's performance.
+
 Deploy the model: Deploy the model for performing real-time inferencing.
 
 
