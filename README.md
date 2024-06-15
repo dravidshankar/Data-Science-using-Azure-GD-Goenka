@@ -70,4 +70,4 @@ Evaluation Measures: Measures such as accuracy, mean recall score, and mean prec
 Deploy the model: Deploy the model for performing real-time inferencing.
 
 
-Upload the solution [here](https://forms.gle/yMwYoz1CEGNLSJWK9)
+Upload the solution [here]([https://forms.gle/yMwYoz1CEGNLSJWK9](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/User%20Guide-FDP%20on%20Data%20Mining%20using%20Microsoft%20Azure%20Training.pdf)
