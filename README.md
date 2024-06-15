@@ -24,4 +24,20 @@
 
 [Perform hyperparameter tuning with Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/perform-hyperparameter-tuning-azure-machine-learning-pipelines/)
 
+## Day 4
 
+K-Means Clustering
+
+Hierarachical Clustering
+
+Image Segmentation
+
+Customer Segmentation
+
+Principal Component Analysis
+
+Deep Neural Network to solve a regression problem
+
+Deep Neural Network to solve a classification problem
+
+Deep Neural Network to solve a Classification problem with regularization
