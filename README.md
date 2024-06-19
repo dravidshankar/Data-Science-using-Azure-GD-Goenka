@@ -24,7 +24,7 @@
 
 [Perform hyperparameter tuning with Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/perform-hyperparameter-tuning-azure-machine-learning-pipelines/)
 
-## Day 4
+## Day 5
 
 [K-Means Clustering](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/K_Means_Clustering.ipynb)
 
@@ -71,3 +71,15 @@ Deploy the model: Deploy the model for performing real-time inferencing.
 
 
 Upload the solution [here](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/User%20Guide-FDP%20on%20Data%20Mining%20using%20Microsoft%20Azure%20Training.pdf)
+
+## Day 6
+
+[Association Rule Mining with Azure](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Association_Rule_Mining.ipynb)
+
+[Anomaly Detection with Azure](https://learn.microsoft.com/en-us/azure/ai-services/anomaly-detector/)
+
+[Visualize anomalies using batch detection and Power BI (univariate)](https://learn.microsoft.com/en-us/azure/ai-services/anomaly-detector/tutorials/batch-anomaly-detection-powerbi)
+
+[Tokenization and Text Cleaning](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Tokenization_and_Text_Cleaning.ipynb)
+
+
