@@ -85,4 +85,8 @@ Upload the solution [here](https://github.com/dravidshankar/Data-Science-using-A
 
 [Tokenization and Text Cleaning](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Tokenization_and_Text_Cleaning.ipynb)
 
+[Time Series Forecasting using Azure Machine Learning](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-forecast?view=azureml-api-2&tabs=python)
 
+[Deploy a model using Azure ML sdkv2](https://learn.microsoft.com/en-us/training/modules/deploy-model-managed-online-endpoint/?source=learn&ns-enrollment-type=Collection)
+
+[Data Science Industry Usecases](https://github.com/DerekKane/Use-Cases-Data-Science)
