@@ -24,23 +24,7 @@
 
 [Perform hyperparameter tuning with Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/perform-hyperparameter-tuning-azure-machine-learning-pipelines/)
 
-## Day 5
-
-[K-Means Clustering](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/K_Means_Clustering.ipynb)
-
-[Hierarachical Clustering](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Agglomerative_Clustering.ipynb)
-
-[Image Segmentation](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Image_Segmentation_KMeans.ipynb)
-
-[Customer Segmentation](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Customer_Segmentation.ipynb)
-
-[Principal Component Analysis](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/PCA.ipynb)
-
-
-[Deep Neural Network to solve a classification problem](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/DNN_Classification.ipynb)
-
-[Deep Neural Network to solve a Classification problem with Regularization](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/DNN_classification_with_dropout.ipynb)
-
+## Day4
 
 ## Assessment
 
@@ -71,6 +55,25 @@ Deploy the model: Deploy the model for performing real-time inferencing.
 
 
 Upload the solution [here](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/User%20Guide-FDP%20on%20Data%20Mining%20using%20Microsoft%20Azure%20Training.pdf)
+
+
+## Day 5
+
+[K-Means Clustering](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/K_Means_Clustering.ipynb)
+
+[Hierarachical Clustering](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Agglomerative_Clustering.ipynb)
+
+[Image Segmentation](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Image_Segmentation_KMeans.ipynb)
+
+[Customer Segmentation](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/Customer_Segmentation.ipynb)
+
+[Principal Component Analysis](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/PCA.ipynb)
+
+
+[Deep Neural Network to solve a classification problem](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/DNN_Classification.ipynb)
+
+[Deep Neural Network to solve a Classification problem with Regularization](https://github.com/dravidshankar/Data-Science-using-Azure-GD-Goenka/blob/main/DNN_classification_with_dropout.ipynb)
+
 
 ## Day 6
 
